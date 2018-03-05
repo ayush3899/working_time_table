@@ -9,6 +9,4 @@ don't serve time let the time serve you
 ## Installation
 
 java netbeans is requred for this project anyone can download it from here: https://netbeans.org/downloads/
-## License
 
-A short snippet describing the license (MIT, Apache, etc.)
